@@ -1,7 +1,7 @@
 # Datamine
 Datamine is a project that was inspired by the desire to gain some knowledge about user-created content on the website *Reddit* The project is composed of a set of programs that form a data pipeline...
 
-#### *DataCollecter*
+#### *DataCollector*
 Grabs comment data from a specified Reddit *subreddit* and stores it as JSON data.
 
 #### *DataProcessor*
