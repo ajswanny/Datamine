@@ -8,7 +8,7 @@ Copyright (c) 2017, Alexander Joseph Swanson Villares
 # TODO: Finish documentation.
 
 # Import dependencies.
-import DataCleaner
+import data_cleaner
 
 # from sklearn.feature_extraction.text import TfidfVectorizer
 # from sklearn.naive_bayes import MultinomialNB
