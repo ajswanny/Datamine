@@ -5,7 +5,6 @@ Copyright (c) 2018, Alexander Joseph Swanson Villares
 
 # BOF
 
-# TODO: Finish documentation.
 
 import json
 import time

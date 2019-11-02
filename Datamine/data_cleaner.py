@@ -5,8 +5,6 @@ Copyright (c) 2018, Alexander Joseph Swanson Villares
 
 # BOF
 
-# TODO: Redefine implementation to force functions to work on given DataFrames, rather than always the base DataFrame.
-# TODO: Finish documentation.
 
 import numpy
 import pandas

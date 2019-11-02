@@ -18,9 +18,6 @@ class DataObserver:
         Init.
         """
 
-
-
-
 # noinspection PyCompatibility
 def build_simply(file_path: str) -> pandas.DataFrame:
     """
@@ -64,12 +61,9 @@ def build_simply(file_path: str) -> pandas.DataFrame:
 
     return df
 
-
-
 def placer():
     """
     A placer processed DataFrame aggregation.
-    :return:
     """
 
     # Import Frames
@@ -91,8 +85,6 @@ def placer():
 
     return 0
 
-
-
 # noinspection PyCompatibility
 def main():
 
@@ -101,6 +93,3 @@ def main():
 
 
     return 0
-
-
-# EOF
